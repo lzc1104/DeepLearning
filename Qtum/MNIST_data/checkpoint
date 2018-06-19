@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/lzc1104/PycharmProjects/Qtum/MNIST_data/bitcoin_lstm_model.ckpt"
+all_model_checkpoint_paths: "/Users/lzc1104/PycharmProjects/Qtum/MNIST_data/bitcoin_lstm_model.ckpt"
